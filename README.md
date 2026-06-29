@@ -1,6 +1,6 @@
-# HackingBox v2 - Termux Edition 🔥
+# HackingBox v4 - Termux Edition 🔥
 
-**Yo, bem-vindo ao HackingBox v2, bradar!**
+**Yo, bem-vindo ao HackingBox - V4**
 
 ## Sobre o Projeto
 Esse script é um menu em Python pra facilitar a vida de quem curte mexer com ferramentas de pentest e hacking no Termux. Versão 2: mais limpo, com boas-vindas personalizada e opções pra instalar várias tools famosas.
